@@ -116,6 +116,7 @@ markupsafe==1.1.1
     # via
     #   -c requirements.txt
     #   jinja2
+    #   sphinx
 mccabe==0.6.1
     # via
     #   flake8
@@ -225,7 +226,7 @@ smmap==4.0.0
     # via gitdb
 snowballstemmer==2.1.0
     # via sphinx
-sphinx==3.5.4
+sphinx==4.0.1
     # via -r dev-requirements.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
